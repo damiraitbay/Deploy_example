@@ -8,4 +8,10 @@ function NewFile() {
   );
 }
 
+
+// name: - input
+// description: -input
+// poster: url -input
+// add film - button
+
 export default NewFile;

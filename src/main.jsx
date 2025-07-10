@@ -1,9 +1,8 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import UseState from './UseState'
-// import './index.css'
+import App from './Deploy/App'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <UseState />
+    <App/>
   </StrictMode>,
 )
